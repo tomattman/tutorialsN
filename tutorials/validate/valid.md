@@ -1,10 +1,9 @@
 ---
-title: cheking all validation rules
-description: 9 types of rules 
-tags: [tutorial:product/sapHana]
-primary_tag: tutorial:product/mobile
+title: MY3
+description: example
+tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
+primary_tag: tutorial:product/sapHana
 ---
-
 
 ## Prerequisites  
  - **Proficiency:** Beginner 

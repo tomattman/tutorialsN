@@ -2,7 +2,7 @@
 title: autotests validation form  2004_updated_2
 description: autotests description
 primary_tag: tutorial>HANA
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
+tags: [products>sapHana, products>hana_studio]
 qrcode: true
 ---
 

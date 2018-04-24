@@ -3,7 +3,9 @@ title: MY
 description: example
 tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
+qrcode: true
 ---
+
 
 
 You can use:

@@ -1,6 +1,6 @@
 ---
 title: MY_0303
-description: example_test
+description: example_test_1
 tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana
 ---

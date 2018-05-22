@@ -1,5 +1,5 @@
 ---
-title: MY
+title: MY_2205
 description: example
 tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: tutorial:product/sapHana

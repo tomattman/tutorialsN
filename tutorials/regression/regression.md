@@ -46,7 +46,10 @@ and
 
 [ACCORDION-BEGIN [STEP 1](Accordion component which contains Images in Body)]
     
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+First Header | Second Header | Third Header | Fourth Header | Fifth Header | Sixth Header
+------------ | ------------- | ------------ | ------------- | -------------| -------------
+Content from cell 1 | Content from cell 2 | Content from cell 3 | Content from cell 4 | Content from cell 5 | Content from cell 6
+Content in the first column | Content in the second column | Content in the third column | Content in the fourth column | Content in the fifth column | Content in the sixth column
 
 [DONE]
 [ACCORDION-END]
@@ -234,62 +237,3 @@ In the words of Abraham Lincoln:
 [DONE]
 [ACCORDION-END]
 
-***Validation rules***
-
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-[VALIDATE_1]
-[ACCORDION-END]
-
- 
-[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
-[VALIDATE_3]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
-[VALIDATE_4]
-[ACCORDION-END]
- 
- 
-[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-[VALIDATE_5] 
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 6](http-status-check 301, 401)] 
-There are advances being made in science and technology everyday, and a good example of this is the LCD monitor. LCD monitors have several benefits over the old chunky computer monitors that most users are familiar with?
-
-[VALIDATE_6] 
-
-There are advances being made in science and technology everyday, and a good example of this is the LCD monitor. LCD monitors have several benefits over the old chunky computer monitors that most users are familiar with?
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 7](http-status-check 200)] 
-[VALIDATE_7] 
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 8](single-choice rule)] 
-[VALIDATE_6] 
-[VALIDATE_8] 
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 9](multiple-choice rule)] 
-[VALIDATE_6] 
-[VALIDATE_9] 
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 10](multiple-choice rule + single-choice rule)] 
-[VALIDATE_9] 
-[VALIDATE_8]
-[ACCORDION-END]
-
-![Image](https://octodex.github.com/images/yaktocat.png)

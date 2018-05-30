@@ -1,7 +1,7 @@
 ---
 title: MY_2205
 description: example
-tags: [ tutorial>MarinaTag, tutorial>beginner, tutorial>QA-lushneuski ]
+tags: [products>sap-hana, topic>api, tutorial>beginner]
 primary_tag: tutorial:product/mobile
 ---
 

@@ -23,8 +23,6 @@ Content.js in the first column | Content in the second column | Content in the t
 [ACCORDION-BEGIN [STEP 12](Accordion component which contains code block and no code block in Body)]
 ***Code blocks:***
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
-
 **Example:sql** 
 ```sql
 CREATE KEYSPACE videodb WITH REPLICATION = { 'class' : 'SimpleStrategy', 'replication_factor' : 1 };

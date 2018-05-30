@@ -1,7 +1,7 @@
 ---
 title: MY_2205
 description: example
-tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
+tags: [ tutorial>MarinaTag, tutorial>beginner, tutorial>QA-lushneuski ]
 primary_tag: tutorial:product/mobile
 ---
 

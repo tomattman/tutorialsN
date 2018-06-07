@@ -17,9 +17,45 @@ Content.js in the first column | Content in the second column | Content in the t
 [DONE]
 [ACCORDION-END]
 
-
-
-
+[ACCORDION-BEGIN [STEP 1](Accordion component which contains Images in Body)]
+```html
+	 <!DOCTYPE HTML>
+	 <html>
+	 <head>
+		 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		 <meta charset="UTF-8"/>
+		 <title>My Sensor Data</title>
+		 <script id='sap-ui-bootstrap'
+		 	src='/sap/ui5/1/resources/sap-ui-core.js'
+		 	data-sap-ui-theme='sap_goldreflection'
+		 	data-sap-ui-libs='sap.ui.core,sap.ui.commons,sap.ui.table'></script>
+		 <script language="JavaScript">
+			 var oModel = new sap.ui.model.odata.ODataModel("/<userid>trial/codejam/iotmmsxs/iotservice.xsodata/", false);
+			 var arrayHeaders = new Array();
+			 	oTable = new sap.ui.table.Table("test",{tableId: "tableID", visibleRowCount: 10});
+			 //Bring the table onto the UI
+			 oTable.placeAt("sensor_table");
+			 //Table Column Definitions
+			 var oMeta = oModel.getServiceMetadata();
+			 var oControl;
+			 for ( var i = 0; i < oMeta.dataServices.schema[0].entityType[0].property.length; i++) {
+			 var property = oMeta.dataServices.schema[0].entityType[0].property[i];
+			  oControl = new sap.ui.commons.TextField().bindProperty("value",property.name);
+			  oTable.addColumn(new sap.ui.table.Column({label:new sap.ui.commons.Label({text: property.name}), template: oControl, sortProperty: property.name, filterProperty: property.name, filterOperator: sap.ui.model.FilterOperator.EQ, flexible: true, width: "125px" }));
+			    }
+			 oTable.setModel(oModel);
+			 var sort1 = new sap.ui.model.Sorter("C_TIMESTAMP");
+			 <body>
+			oTable.bindRows("/<table name>",sort1);
+		 </script>
+	 </head>
+	  <div id="sensor_table"/>
+	 </body>
+	 </html>
+	```
+[DONE]
+[ACCORDION-END]
+    
 [ACCORDION-BEGIN [STEP 12](Accordion component which contains code block and no code block in Body)]
 
 ```json

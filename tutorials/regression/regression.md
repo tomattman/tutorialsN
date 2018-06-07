@@ -18,6 +18,7 @@ Content.js in the first column | Content in the second column | Content in the t
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 1](Accordion component which contains Images in Body)]
+
 ```html
 	 <!DOCTYPE HTML>
 	 <html>

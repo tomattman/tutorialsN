@@ -158,7 +158,7 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
    
    [ACCORDION-BEGIN [STEP 14](Image from another folderS. Example: folder_with_images/inner_folder/image.png (png format))]   
 
-  ![folder](folder_with_images/inner_folder/window.png)
+  ![folder](folder/inner_folder/window.png)
    [ACCORDION-END]
    
    

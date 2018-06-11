@@ -40,42 +40,42 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
    
    **Image with indicating the way. Example: tutorials/images/image.jpg (jpg format)**
    
-   ![Relative](tutorials/with_Image/elephant.jpg)
+   ![Relative](tutorials/WithImage/elephant.jpg)
    
    
    **Image with indicating the way. Example: tutorials/images/image.png (png format)**
    
-   ![Relative](tutorials/with_Image/cat.png)
+   ![Relative](tutorials/WithImage/cat.png)
    
    
    **Image with indicating the way and spaces between words. Example: tutorials/images/image test.jpg (jpg format)**
    
-   ![Relative with space](tutorials/with_Image/gran canaria.jpg)
+   ![Relative with space](tutorials/WithImage/gran canaria.jpg)
    
    
    **Image with indicating the way and spaces between words. Example: tutorials/images/image test.png (png format)**
     
-   ![Relative with space](tutorials/with_Image/bird 720.png)
+   ![Relative with space](tutorials/WithImage/bird 720.png)
    
    
    **Image from another folder. Example: with_Image/image.jpg (jpg format)**
    
-   ![folder](folder_with_images/the-horse.jpg)
+   ![folder](folder/the-horse.jpg)
    
    
    **Image from another folder. Example: with_Image/image.png (png format)**
    
-   ![folder](folder_with_images/diamond.png)
+   ![folder](folder/diamond.png)
    
    
    **Image from another folderS. Example: folder_with_images/inner_folder/image.jpg (jpg format)**
    
-   ![folder](folder_with_images/inner_folder/bulldog.jpg)
+   ![folder](folder/inner_folder/bulldog.jpg)
    
    
    **Image from another folderS. Example: folder_with_images/inner_folder/image.png (png format)**
    
-   ![folder](folder_with_images/inner_folder/window.png)
+   ![folder](folder/inner_folder/window.png)
    
    
   [ACCORDION-BEGIN [STEP 1](Image with  *JPG format (jpg format))]

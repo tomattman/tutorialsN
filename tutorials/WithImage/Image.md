@@ -122,37 +122,37 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
    
       [ACCORDION-BEGIN [STEP 8](Image with indicating the way. Example: tutorials/images/image.png (png format))]
 
-     ![Relative](tutorials/with_Image/cat.png)
+     ![Relative](tutorials/WithImage/cat.png)
    [ACCORDION-END]
    
    
       [ACCORDION-BEGIN [STEP 9](Image with indicating the way and spaces between words. Example: tutorials/images/image test.jpg (jpg format))]
 
-     ![Relative with space](tutorials/with_Image/gran canaria.jpg)
+     ![Relative with space](tutorials/WithImage/gran canaria.jpg)
    [ACCORDION-END]
    
    
       [ACCORDION-BEGIN [STEP 10](Image with indicating the way and spaces between words. Example: tutorials/images/image test.png (png format))]
 
-   ![Relative with space](tutorials/with_Image/bird 720.png)
+   ![Relative with space](tutorials/WithImage/bird 720.png)
    [ACCORDION-END]
    
    
     [ACCORDION-BEGIN [STEP 11](Image from another folder. Example: with_Image/image.jpg (jpg format))]   
    
-   ![folder](folder_with_images/the-horse.jpg)
+   ![folder](folder/the-horse.jpg)
    [ACCORDION-END]
    
    
    [ACCORDION-BEGIN [STEP 12](Image from another folder. Example: with_Image/image.png (png format))]   
    
-   ![folder](folder_with_images/diamond.png)
+   ![folder](folder/diamond.png)
    [ACCORDION-END]
    
    
    [ACCORDION-BEGIN [STEP 13](Image from another folderS. Example: folder_with_images/inner_folder/image.jpg (jpg format))]   
 
-   ![folder](folder_with_images/inner_folder/bulldog.jpg)
+   ![folder](folder/inner_folder/bulldog.jpg)
    [ACCORDION-END]
    
    

@@ -1,5 +1,5 @@
 ---
-title: MY_2205
+title: MY_2205_1506
 description: example
 tags: [products>sap-hana, topic>api, tutorial>beginner]
 primary_tag: tutorial:product/mobile

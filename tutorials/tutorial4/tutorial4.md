@@ -1,5 +1,5 @@
 ---
-title: tutorial4
+title: tutorial4_1
 description: Part 10 of 10, Now connect your IoT Services to an SAP HANA XS shared instance and show the data using SAP HANA XS
 tags: [ tutorial>beginner ]
 primary_tag: tutorial>beginner

@@ -41,3 +41,9 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
 [VALIDATE_9] 
 [VALIDATE_8]
 [ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 4](Checking the Status of the Esserver)]
+One of the most important things to be validated once your Dynamic Tiering node is installed is to see whether everything is up and running. The `esserver` is the Dynamic Tiering server process. If the `esserver` is running, it means the Dynamic Tiering environment is active and running.
+
+[DONE]
+[ACCORDION-END]

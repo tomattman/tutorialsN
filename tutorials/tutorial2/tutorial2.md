@@ -8,7 +8,7 @@ tags: [  products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana
 
 ## Details
 ### You will learn
- - Capabilities of SAP HANA Cockpit related to SAP HANA Dynamic Tiering
+ - NEW Capabilities of SAP HANA Cockpit related to SAP HANA Dynamic Tiering
  - Checking the `Esserver` Status to see if Dynamic Tiering is active
  - Checking Coordinator Types to see if extended storage is running and created
 

@@ -1,5 +1,5 @@
 ---
-title: UnicTutorial_2006_3
+title: UnicTutorial_2006_32
 description: Develop and 11deploy your first Java application using the SAP HANA Cloud Platform Tools for Java
 tags: [  tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-platform, month>qa_month ]
 primary_tag: tutorial:product/sapHana

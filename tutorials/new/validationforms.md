@@ -1,5 +1,5 @@
 ---
-title: UnicTutorial_2006_2
+title: UnicTutorial_2006_22
 description: autotests description
 primary_tag: tutorial>HANA
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]

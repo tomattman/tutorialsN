@@ -1,5 +1,5 @@
 ---
-title: cheking new validation rules
+title: cheking new validation rules1
 description: 2 new types of rules 
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile

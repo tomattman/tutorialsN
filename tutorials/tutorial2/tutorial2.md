@@ -5,6 +5,8 @@ description: Checking the esserver process and coordinator types to determine if
 primary_tag: products>sap-hana-dynamic-tiering
 tags: [  products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, products>sap-hana-cockpit, topic>big-data, topic>sql ]
 ---
+### Time to Complete
+10 min
 
 ## Details
 ### You will learn

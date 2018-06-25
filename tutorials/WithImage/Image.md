@@ -4,6 +4,9 @@ description: Develop and 11deploy your first Java application using the SAP HANA
 tags: [  tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-platform ]
 primary_tag: tutorial:product/sapHana
 ---
+### Time to Complete
+10 min
+
 ## Prerequisites  
  - **Proficiency:** Beginner
  - **Tutorials:** [Configuring Eclipse with SAP HANA Cloud Platform Tools for Java](https://github.com/mamosova/tutorials/edit/master/tutorials/test1111/accardion.md)

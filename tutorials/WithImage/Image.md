@@ -16,7 +16,9 @@ primary_tag: tutorial:product/sapHana
 
 ## Details
 ### You will learn  
-In this tutorial you will create a Dynamic Web project, a servlet to respond to a browser request and after running it in your local development environm343ent, deploy it to SAP HANA Cloud Platform.
+- In this tutorial you will create a Dynamic Web project, a servlet to respond to a browser request and after running it in your local development environm343ent, deploy it to SAP HANA Cloud Platform.
+- In this tutorial you will create a Dynamic Web project, a servlet to respond to a browser request and after running it in your local development environm343ent, deploy it to SAP HANA Cloud Platform.
+- In this tutorial you will create a Dynamic Web project, a servlet to respond to a browser request and after running it in your local development environm343ent, deploy it to SAP HANA Cloud Platform.
 
 
 ---

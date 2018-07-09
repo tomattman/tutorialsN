@@ -1,5 +1,5 @@
 ---
-title: UnicTutorial_25062018_4
+title: UnicTutorial5_09072018
 description: example
 tags: [products>sap-hana, topic>api, tutorial>beginner]
 primary_tag: tutorial:product/mobile
@@ -85,7 +85,7 @@ Content.js in the first column | Content in the second column | Content in the t
 [DONE]
 [ACCORDION-END]
     
-[ACCORDION-BEGIN [STEP 12](Accordion component which contains code block and no code block in Body)]
+[ACCORDION-BEGIN [STEP 2](Accordion component which contains code block and no code block in Body)]
 
 ```json
 {

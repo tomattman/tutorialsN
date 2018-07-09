@@ -166,5 +166,6 @@ Content.js in the first column | Content in the second column | Content in the t
         "stock": { "warehouse":300, "retail":20 }
 }
 ```
+[DONE]
 [ACCORDION-END]
 

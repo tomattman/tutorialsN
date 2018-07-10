@@ -1,5 +1,4 @@
 ---
-
 title: 10072018_new_tut
 description: Part 3.1: Setting up a Git/Gerrit Instance.
 tags: [ agreements:distribution_agreements/gtc ]

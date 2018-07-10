@@ -27,18 +27,22 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
 
 
 
-[ACCORDION-BEGIN [STEP 1](single-choice rule)] 
-[VALIDATE_8] 
-[ACCORDION-END]
+```c#
+using System;
+ 
+class HelloWorld
+{
+  public static int Main()
+  {
+    Console.WriteLine("Hello World!");
+    return 0;
+  }
+}
+* This source code was highlighted with Source Code Highlighter.
+```
 
-
-[ACCORDION-BEGIN [STEP 2](multiple-choice rule)] 
-[VALIDATE_9] 
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 4](Checking the Status of the Esserver)]
-One of the most important things to be validated once your Dynamic Tiering node is installed is to see whether everything is up and running. The `esserver` is the Dynamic Tiering server process. If the `esserver` is running, it means the Dynamic Tiering environment is active and running.
-
-[DONE]
-[ACCORDION-END]
+```PowerShall
+2
+Start-Sleep 10
+Restart-Computer -Force -ComputerName SERVER1
+```

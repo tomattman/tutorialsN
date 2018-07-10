@@ -1,8 +1,8 @@
 ---
 title: 10072018_new_tut
 description: Part 3.1: Setting up a Git/Gerrit Instance.
-tags: [ agreements:distribution_agreements/gtc ]
-primary_tag: topic>cloud
+tags: [tutorial:product/sapHana]
+primary_tag: tutorial:product/mobile
 ---
 
 ## Prerequisites

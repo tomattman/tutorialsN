@@ -1,5 +1,5 @@
 ---
-title: 10072018_new_tut
+title: 10072018_new_tut_2
 description: 2 new types of rules 
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile

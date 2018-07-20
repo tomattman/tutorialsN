@@ -14,6 +14,9 @@ primary_tag: tutorial:product/sapHana
 ### Time to Complete
 10 min
 
+time: 120
+author: Abdel DADOUCHE
+
 ## Next Steps
  - This tutorial is part of a series.  The next tutorial is part 4: [Add a list to the current view](https://go.sap.com/developer/tutorials/sapui5-webide-add-list.html)
   

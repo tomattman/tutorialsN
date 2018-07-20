@@ -1,6 +1,8 @@
 ---
 title: 10072018_new_tut_2
 description: 2 new types of rules 
+time: 120
+author: Abdel DADOUCHE
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/sapHana
 ---

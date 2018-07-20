@@ -1,12 +1,11 @@
 ---
 title: 10072018_new_tut_2
-description: 2 new types of rules 2007 
+description: 2 new types of rules 2007 _1
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/sapHana
 experience: tutorial:experience/beginner
-author_link: https://github.com/adadouche
 author: Abdel DADOUCHE
-time: 15
+time: 150
 ---
 
 

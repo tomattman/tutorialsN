@@ -3,7 +3,7 @@ title: 10072018_new_tut_2
 description: 2 new types of rules 2007_1
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/sapHana
-experience: tutorial:experience/beginner
+experience: tutorial:experience/advanced
 author_link: https://github.com/adadouche
 author: Abdel DADOUCHE
 time: 150

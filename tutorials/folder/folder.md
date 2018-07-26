@@ -6,7 +6,6 @@ primary_tag: tutorial:product/sapHana
 experience: tutorial:experience/advanced
 author: Abdel DADOUCHE2
 author_link: 
-time: 111
 ---
 
 
@@ -18,6 +17,7 @@ time: 111
 ## Next Steps
  - This tutorial is part of a series.  The next tutorial is part 4: [Add a list to the current view](https://go.sap.com/developer/tutorials/sapui5-webide-add-list.html)
   
+### Time to Complete 123
 
 ## Details
 ### You will learn  

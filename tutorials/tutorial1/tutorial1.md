@@ -17,7 +17,7 @@ author_profile: https://github.com/adadouche
 
 ## Details
 ### You will learn  
-In this tutorial you will create a Dynamic Web project, a servlet to respond to a browser request and after running it in your local development environm343ent, deploy it to SAP HANA Cloud Platform.
+TEST
 
 ### Time to Complete
 **20 Min**

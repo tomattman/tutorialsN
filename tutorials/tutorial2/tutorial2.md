@@ -10,7 +10,7 @@ tags: [  tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering
 
 ## Details
 ### You will learn
-TEST
+TEST2
 
 
 [ACCORDION-BEGIN [Step 1: ](Checking the Status of the Esserver)]

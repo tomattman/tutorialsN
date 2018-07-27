@@ -3,16 +3,14 @@ title: UnicTutorial4_09072018_2
 description: Checking the esserver process and coordinator types to determine if Dynamic Tiering is running and if extended storage is created and running.
 
 primary_tag: products>sap-hana-dynamic-tiering
-tags: [  products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, products>sap-hana-cockpit, topic>big-data, topic>sql ]
+tags: [  tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, products>sap-hana-cockpit, topic>big-data, topic>sql ]
 ---
 ### Time to Complete
 10 min
 
 ## Details
 ### You will learn
- - NEW Capabilities of SAP HANA Cockpit related to SAP HANA Dynamic Tiering
- - Checking the `Esserver` Status to see if Dynamic Tiering is active
- - Checking Coordinator Types to see if extended storage is running and created
+TEST
 
 
 [ACCORDION-BEGIN [Step 1: ](Checking the Status of the Esserver)]

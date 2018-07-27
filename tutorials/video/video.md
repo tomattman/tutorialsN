@@ -3,7 +3,7 @@ title: video
 description: test2
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
-author_name: Abdel DADOUCHE egergeg
+author_name: Abdel DADOUCHE
 ---
 
 ## Prerequisites  
@@ -16,7 +16,7 @@ author_name: Abdel DADOUCHE egergeg
 Every month, a mebber of SCN is rsi
 
 ### Time to Complete
-**15 min**
+**17 min**
 
 ```c#
 using System;

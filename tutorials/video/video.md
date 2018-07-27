@@ -18,4 +18,22 @@ Every month, a mebber of SCN is rsi
 ### Time to Complete
 **15 min**
 
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]
+```c#
+using System;
+ 
+class HelloWorld
+{
+  public static int Main()
+  {
+    Console.WriteLine("Hello World!");
+    return 0;
+  }
+}
+* This source code was highlighted with Source Code Highlighter.
+```
+
+```PowerShall
+2
+Start-Sleep 10
+Restart-Computer -Force -ComputerName SERVER1
+```

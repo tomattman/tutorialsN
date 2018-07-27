@@ -19,8 +19,7 @@ author_name: Abdel DADOUCHE egergeg
   
 ## Details
 ### You will learn  
-Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cockpit, you will connect that destination to your local application.    
-
+TEST2
 ## Prerequisites  
 - [Access your first data in a SAP HANA XSC Application](http://go.sap.com/developer/tutorials/hana-data-access-authorizations.html)
 

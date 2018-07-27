@@ -4,7 +4,7 @@ description: 2 new types of rules 2007_1
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
 time: 135
-author_name: Abdel DADOUCHE egergeg
+author_name: Abdel DADOUCHE
 ---
 
 

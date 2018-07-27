@@ -3,14 +3,13 @@ title: 10072018_new_tut_2
 description: 2 new types of rules 2007_1
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
-time: 111
 ---
 
 
 ## Prerequisites  
  - **Web IDE** If you don't have the Web IDE open, follow these steps: [Enable and open the HANA Cloud Platform Web IDE](https://go.sap.com/developer/tutorials/sapui5-webide-open-webide.html)
  - **Tutorials:** This tutorial is part of a series.  The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials/hcp-create-destination.html)
-- **Proficiency:** Beginner
+- **Proficiency:** Advanced
 
 
 ## Next Steps
@@ -19,6 +18,10 @@ time: 111
 ## Details
 ### You will learn  
 TEST2
+
+### Time to Complete
+**77 Min**
+
 ## Prerequisites  
 - [Access your first data in a SAP HANA XSC Application](http://go.sap.com/developer/tutorials/hana-data-access-authorizations.html)
 

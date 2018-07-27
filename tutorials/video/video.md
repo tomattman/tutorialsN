@@ -1,8 +1,9 @@
 ---
 title: Video testing
 description: test page for several rules 
-tags: [ products>sap-hana-cloud-platform, topic>cloud, topic>java]
+tags: [ products>sap-hana-cloud-platform, topic>cloud, topic>java, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
+author_name: Abdel DADOUCHE egergeg
 ---
 
 ## Prerequisites  

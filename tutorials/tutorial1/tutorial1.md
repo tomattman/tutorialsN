@@ -20,7 +20,7 @@ author_profile: https://github.com/adadouche
 TEST
 
 ### Time to Complete
-**20 Min**
+**77 Min**
 
 ---
 

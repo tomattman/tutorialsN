@@ -1,6 +1,6 @@
 ---
 title: video
-description: test2
+description: test3
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
 author_name: Abdel DADOUCHE
@@ -16,7 +16,7 @@ author_name: Abdel DADOUCHE
 Every month, a mebber of SCN is rsi
 
 ### Time to Complete
-**17 min**
+**111 min**
 
 ```c#
 using System;

@@ -1,5 +1,5 @@
 ---
-title: UnicTutorial4_09072018_2
+title: TutorialTopaz5
 description: Checking the esserver process and coordinator types to determine if Dynamic Tiering is running and if extended storage is created and running.
 
 primary_tag: products>sap-hana-dynamic-tiering

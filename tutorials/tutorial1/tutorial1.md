@@ -1,10 +1,10 @@
 ---
-title: UnicTutorial3_09072018
+title: TutorialTopaz4
 description: Develop and 11deploy your first Java application using the SAP HANA Cloud Platform Tools for Java
-tags: [  tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-platform, month>qa_month ]
+tags: [  tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-platform, month>TopazMonthTest ]
 primary_tag: tutorial:product/sapHana
 author_name: Abdel DADOUCHE egergeg
-author_profile: https://github.com/adadouche
+time: 77
 ---
 ## Prerequisites
 
@@ -19,8 +19,7 @@ author_profile: https://github.com/adadouche
 ### You will learn  
 TEST2
 
-### Time to Complete
-**77 Min**
+
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: TutorialTopaz3
-description: 2 new types of rules 
+description: ADMINTOOL
 tags: [tutorial>advanced, tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
 time: 111

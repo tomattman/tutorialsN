@@ -4,7 +4,7 @@ description: Develop and 11deploy your first Java application using the SAP HANA
 tags: [  tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-platform, month>TopazMonthTest ]
 primary_tag: tutorial:product/sapHana
 author_name: Abdel DADOUCHE egergeg
-time: 77
+time: 777
 ---
 ## Prerequisites
 

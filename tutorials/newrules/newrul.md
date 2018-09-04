@@ -13,7 +13,7 @@ time: 111
  - **Tutorials:** This tutorial is part of a series.  The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials/hcp-create-destination.html)
 
 ## Next Steps
- - This tutorial is part of a series.  The next tutorial is part 4: [Add a list to the current view](https://go.sap.com/developer/tutorials/sapui5-webide-add-list.html)
+ - TEST
   
 
 ## Details
@@ -42,5 +42,5 @@ One of the most important things to be validated once your Dynamic Tiering node 
 [ACCORDION-END]
 
 # Next Steps
- - This tutorial is part of a series.  The next tutorial is part 4: [Add a list to the current view](https://go.sap.com/developer/tutorials/sapui5-webide-add-list.html)
+ - TEST2
   

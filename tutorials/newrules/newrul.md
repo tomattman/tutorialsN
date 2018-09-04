@@ -40,3 +40,7 @@ One of the most important things to be validated once your Dynamic Tiering node 
 
 [DONE]
 [ACCORDION-END]
+
+# Next Steps
+ - This tutorial is part of a series.  The next tutorial is part 4: [Add a list to the current view](https://go.sap.com/developer/tutorials/sapui5-webide-add-list.html)
+  

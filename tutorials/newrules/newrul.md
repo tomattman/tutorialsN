@@ -40,7 +40,3 @@ One of the most important things to be validated once your Dynamic Tiering node 
 
 [DONE]
 [ACCORDION-END]
-
-# Next Steps
- - TEST2
-  

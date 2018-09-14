@@ -13,7 +13,7 @@ The following will document links, tips and tricks and more related to the SAP C
 
 
 ### Time to Complete
-**5 to 6 Hours**.
+**6 Hours**.
 
 ---
 

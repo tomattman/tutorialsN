@@ -1,5 +1,5 @@
 ---
-title: UnicTutorial6_09072018
+title: remove
 description: Part 10 of 10, Now connect your IoT Services to an SAP HANA XS shared instance and show the data using SAP HANA XS
 tags: [ tutorial>beginner ]
 primary_tag: tutorial>beginner
@@ -15,7 +15,7 @@ primary_tag: tutorial>beginner
 
 ## Details
 ### You will learn  
-Now that your IoT Services are collecting data an1d you were able to view it your deployed Java application, now how about redirecting the data to a shared SAP HANA XS instance and making a small SAP HANA XSC application to show the data.  
+NTESTUHIUOP{
 
 
 ### Time to Complete

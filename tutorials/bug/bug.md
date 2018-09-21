@@ -7,34 +7,9 @@ author_name: Abdel DADOUCHE
 time:1234
 ---
 
-## Prerequisites  
- - [End-to-End Weather App Scenario Part 8](http://go.sap.com/developer/tutorials/hcp-java-weatherapp-part8vbv454.html5645)
-
-## Details
-Every month, a mebber of SCN is rsi
-
-```c#
-using System;
- 
-class HelloWorld
-{
-  public static int Main()
-  {
-    Console.WriteLine("Hello World!");
-    return 0;
-  }
-}
-* This source code was highlighted with Source Code Highlighter.
-```
-
-```PowerShall
-2
-Start-Sleep 10
-Restart-Computer -Force -ComputerName SERVER1
-```
 [ACCORDION-BEGIN [](Accordion component which contains Images in Body)]
     
-[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+test
 
 [DONE]
 [ACCORDION-END]

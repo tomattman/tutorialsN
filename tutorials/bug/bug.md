@@ -32,3 +32,9 @@ class HelloWorld
 Start-Sleep 10
 Restart-Computer -Force -ComputerName SERVER1
 ```
+[ACCORDION-BEGIN [](Accordion component which contains Images in Body)]
+    
+[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
+
+[DONE]
+[ACCORDION-END]

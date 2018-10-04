@@ -27,9 +27,8 @@ TEST2
 ## Prerequisites  
 - [Access your first data in a SAP HANA XSC Application](http://go.sap.com/developer/tutorials/hana-data-access-authorizations.html)
 
+[ACCORDION-BEGIN]
 
-
-```c#
 using System;
  
 class HelloWorld
@@ -43,8 +42,16 @@ class HelloWorld
 * This source code was highlighted with Source Code Highlighter.
 ```
 
+[DONE]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN]
 ```PowerShall
 2
 Start-Sleep 10
 Restart-Computer -Force -ComputerName SERVER1
 ```
+
+[DONE]
+[ACCORDION-END]

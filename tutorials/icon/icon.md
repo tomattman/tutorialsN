@@ -28,7 +28,7 @@ TEST2
 - [Access your first data in a SAP HANA XSC Application](http://go.sap.com/developer/tutorials/hana-data-access-authorizations.html)
 
 [ACCORDION-BEGIN]
-
+```
 using System;
  
 class HelloWorld

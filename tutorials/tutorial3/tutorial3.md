@@ -5,7 +5,7 @@ tags: [products>sap-hana, topic>api, tutorial>beginner]
 primary_tag: tutorial:product/mobile
 ---
 ### Time to Complete
-11 min
+13 min
 
 
 [ACCORDION-BEGIN [STEP 1](Accordion component which contains Images in Body)]
@@ -89,20 +89,13 @@ Content.js in the first column | Content in the second column | Content in the t
 
  Open the new `OrdersService.java` file and replace the template with the following code:
 
-    ```java
+```java
     package my.bookshop;
 
     import java.util.ArrayList;
     import java.util.List;
 
-    import com.sap.cloud.sdk.service.prov.api.*;
-    import com.sap.cloud.sdk.service.prov.api.annotations.*;
-    import com.sap.cloud.sdk.service.prov.api.exits.*;
-    import com.sap.cloud.sdk.service.prov.api.request.*;
-    import com.sap.cloud.sdk.service.prov.api.response.*;
-    import org.slf4j.*;
-
-    public class OrdersService {
+   public class OrdersService {
 
       private static final Logger LOG = LoggerFactory.getLogger (OrdersService.class.getName());
 
@@ -130,7 +123,7 @@ Content.js in the first column | Content in the second column | Content in the t
         return QueryResponse.setSuccess().setData(modifiedList).response();
       }
     }  
-    ```
+ ```
 
 1. Save your changes.
 

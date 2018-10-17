@@ -5,7 +5,7 @@ tags: [products>sap-hana, topic>api, tutorial>beginner]
 primary_tag: tutorial:product/mobile
 ---
 ### Time to Complete
-10 min
+11 min
 
 
 [ACCORDION-BEGIN [STEP 1](Accordion component which contains Images in Body)]

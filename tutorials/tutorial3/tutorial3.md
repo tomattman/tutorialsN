@@ -87,7 +87,7 @@ Content.js in the first column | Content in the second column | Content in the t
     
 [ACCORDION-BEGIN [Step 2: ](Add custom code)]
 
-1. Open the new `OrdersService.java` file and replace the template with the following code:
+ Open the new `OrdersService.java` file and replace the template with the following code:
 
     ```java
     package my.bookshop;

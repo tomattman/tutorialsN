@@ -86,6 +86,9 @@ Content.js in the first column | Content in the second column | Content in the t
 [ACCORDION-END]
     
 [ACCORDION-BEGIN [STEP 2](Accordion component which contains code block and no code block in Body)]
+1. How to use HANA Studio Pe1rspectives
+2. How to create a connectiodn to the gHAhNA back endddв
+3. Getting starhted with the HANA Web based development workbench
 
 ```json
 {

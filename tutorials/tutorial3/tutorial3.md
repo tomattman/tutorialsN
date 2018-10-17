@@ -85,90 +85,57 @@ Content.js in the first column | Content in the second column | Content in the t
 [DONE]
 [ACCORDION-END]
     
-[ACCORDION-BEGIN [STEP 2](Accordion component which contains code block and no code block in Body)]
-1. How to use HANA Studio Pe1rspectives
-2. How to create a connectiodn to the gHAhNA back endddв
-3. Getting starhted with the HANA Web based development workbench
+[ACCORDION-BEGIN [Step 2: ](Add custom code)]
 
-```json
-{
-     "firstName": "John",
-     "lastName" : "Smith",
-     "age"      : 25,
-     "address"  :
-     {
-         "streetAddress": "21 2nd Street",
-         "city"         : "New York",
-         "state"        : "NY",
-         "postalCode"   : "10021"
-     },
-     "phoneNumber":
-     [
-         {
-           "type"  : "home",
-           "number": "212 555-1234"
-         },
-         {
-           "type"  : "fax",
-           "number": "646 555-4567"
-         }
-     ]
- }
- {
-        "name":"Product",
-        "properties":
-        {
-                "id":
-                {
-                        "type":"number",
-                        "description":"Product identifier",
-                        "required":true
-                },
-                "name":
-                {
-                        "type":"string",
-                        "description":"Name of the product",
-                        "required":true
-                },
-                "price":
-                {
-                        "type":"number",
-                        "minimum":0,
-                        "required":true
-                },
-                "tags":
-                {
-                        "type":"array",
-                        "items":
-                        {
-                                "type":"string"
-                        }
-                },
-                "stock":
-                {
-                        "type":"object",
-                        "properties":
-                        {
-                                "warehouse":
-                                {
-                                        "type":"number"
-                                },
-                                "retail":
-                                {
-                                        "type":"number"
-                                }
-                        }
-                }
-        }
-}
-{
-        "id": 1,
-        "name": "Foo",
-        "price": 123,
-        "tags": ["Bar","Eek"],
-        "stock": { "warehouse":300, "retail":20 }
-}
-```
+1. Open the new `OrdersService.java` file and replace the template with the following code:
+
+    ```java
+    package my.bookshop;
+
+    import java.util.ArrayList;
+    import java.util.List;
+
+    import com.sap.cloud.sdk.service.prov.api.*;
+    import com.sap.cloud.sdk.service.prov.api.annotations.*;
+    import com.sap.cloud.sdk.service.prov.api.exits.*;
+    import com.sap.cloud.sdk.service.prov.api.request.*;
+    import com.sap.cloud.sdk.service.prov.api.response.*;
+    import org.slf4j.*;
+
+    public class OrdersService {
+
+      private static final Logger LOG = LoggerFactory.getLogger (OrdersService.class.getName());
+
+      @BeforeRead (entity="Orders", serviceName="CatalogService")
+      public BeforeReadResponse beforeReadOrders (ReadRequest req, ExtensionHelper h){
+        LOG.error ("##### Orders - beforeReadOrders ########");
+        return BeforeReadResponse.setSuccess().response();
+      }
+
+      @AfterRead (entity = "Orders", serviceName="CatalogService")
+      public ReadResponse afterReadOrders (ReadRequest req, ReadResponseAccessor res, ExtensionHelper h) {
+        EntityData ed = res.getEntityData();
+        EntityData ex = EntityData.getBuilder(ed).addElement("amount", 1000).buildEntityData("Orders");
+        return ReadResponse.setSuccess().setData(ex).response();
+      }
+
+      @AfterQuery (entity = "Orders", serviceName="CatalogService")
+      public QueryResponse afterQueryOrders (QueryRequest req, QueryResponseAccessor res, ExtensionHelper h) {
+        List<EntityData> dataList = res.getEntityDataList(); //original list
+        List<EntityData> modifiedList = new ArrayList<EntityData>(dataList.size()); //modified list
+        for(EntityData ed : dataList){
+    		  EntityData ex = EntityData.getBuilder(ed).addElement("amount", 1000).buildEntityData("Orders");
+    		  modifiedList.add(ex);
+    	  }
+        return QueryResponse.setSuccess().setData(modifiedList).response();
+      }
+    }  
+    ```
+
+1. Save your changes.
+
+    >In this sample code, we set a value of 1000 for the property amount of each returned entity in reading operations.
+
 [DONE]
-[ACCORDION-END]
 
+[ACCORDION-END]

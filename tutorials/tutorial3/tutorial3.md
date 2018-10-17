@@ -18,7 +18,7 @@ Content.js in the first column | Content in the second column | Content in the t
 [DONE]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 1](Accordion component which contains Images in Body)]
+[ACCORDION-BEGIN [STEP 2](Accordion component which contains Images in Body)]
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -85,17 +85,24 @@ Content.js in the first column | Content in the second column | Content in the t
 [DONE]
 [ACCORDION-END]
     
-[ACCORDION-BEGIN [Step 2: ](Add custom code)]
+[ACCORDION-BEGIN [Step 3: ](Add custom code)]
 
- Open the new `OrdersService.java` file and replace the template with the following code:
+1. Open the new `OrdersService.java` file and replace the template with the following code:
 
-```java
+    ```java
     package my.bookshop;
 
     import java.util.ArrayList;
     import java.util.List;
 
-   public class OrdersService {
+    import com.sap.cloud.sdk.service.prov.api.*;
+    import com.sap.cloud.sdk.service.prov.api.annotations.*;
+    import com.sap.cloud.sdk.service.prov.api.exits.*;
+    import com.sap.cloud.sdk.service.prov.api.request.*;
+    import com.sap.cloud.sdk.service.prov.api.response.*;
+    import org.slf4j.*;
+
+    public class OrdersService {
 
       private static final Logger LOG = LoggerFactory.getLogger (OrdersService.class.getName());
 
@@ -123,7 +130,7 @@ Content.js in the first column | Content in the second column | Content in the t
         return QueryResponse.setSuccess().setData(modifiedList).response();
       }
     }  
- ```
+    ```
 
 1. Save your changes.
 

@@ -5,7 +5,7 @@ tags: [products>sap-hana, topic>api, tutorial>beginner]
 primary_tag: tutorial:product/mobile
 ---
 ### Time to Complete
-14 min
+15 min
 
 
 [ACCORDION-BEGIN [STEP 1](Accordion component which contains Images in Body)]
@@ -89,7 +89,7 @@ Content.js in the first column | Content in the second column | Content in the t
 
 1. Open the new `OrdersService.java` file and replace the template with the following code:
 
-    ```java
+```java
     package my.bookshop;
 
     import java.util.ArrayList;
@@ -130,7 +130,7 @@ Content.js in the first column | Content in the second column | Content in the t
         return QueryResponse.setSuccess().setData(modifiedList).response();
       }
     }  
-    ```
+```
 
 1. Save your changes.
 

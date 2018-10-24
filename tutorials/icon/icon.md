@@ -1,5 +1,5 @@
 ---
-title: TutorialTopaz10
+title: TutorialTopaz10_updated
 description: 2 new types of rules 2007_1
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
@@ -20,6 +20,8 @@ author_profile: https://github.com/adadouche
 ## Details
 ### You will learn  
 TEST2
+
+UPDATED DETAILS
 
 ### Time to Complete
 **77 Min**

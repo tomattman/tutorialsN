@@ -5,7 +5,7 @@ tags: [  tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-pla
 primary_tag: tutorial:product/sapHana
 ---
 ### Time to Complete
-66 min
+666 min
 
 ## Prerequisites  
  - **Proficiency:** Advanced

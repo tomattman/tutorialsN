@@ -1,6 +1,6 @@
 ---
 title: bug
-description: test
+description: <del>testtesttesttesttest testtesttest</del> <li>rhrh <li>rhtrthhth 
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
 author_name: Abdel DADOUCHE

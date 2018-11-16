@@ -9,9 +9,9 @@ time:1234
 
 [ACCORDION-BEGIN [](Accordion component which contains Images in Body)]
     
-test
-<br> gag </br>
+test <br>gag</br>
 
+<del>testtesttesttesttest testtesttest</del>
 
 <li>rhrh
 <li>rhtrthhth

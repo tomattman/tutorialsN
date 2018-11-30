@@ -12,7 +12,7 @@ primary_tag: tutorial:product/mobile
 
 1. Open the new `OrdersService.java` file and replace the template with the following code:
 
-    ```java
+    ```cds
     namespace my.bookshop;
 entity Books {
   key ID : UUID;
@@ -49,7 +49,7 @@ service CatalogService {
 
 1. Open the new `OrdersService.java` file and replace the template with the following code:
 
-```cdp
+```java
     package my.bookshop;
 
     import java.util.ArrayList;

@@ -4,7 +4,7 @@ description: test3
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
 author_name: Abdel DADOUCHE
-time:5683
+time:568
 ---
 
 ## Prerequisites  

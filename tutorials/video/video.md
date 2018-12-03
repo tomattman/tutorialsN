@@ -10,11 +10,10 @@ time:5683
 ## Prerequisites  
  - [End-to-End Weather App Scenario Part 8](http://go.sap.com/developer/tutorials/hcp-java-weatherapp-part8vbv454.html5645)
 
-## Next Steps
- - [End-to-End Weather App Scenario Part 10](http://go.sap.com/developer/tutorials/hcp-java-weatherapp-part10.html)
-
 ## Details
 Every month, a mebber of SCN is rsi
+
+[End-to-End Weather App Scenario Part 10](newrul)
 
 ```c#
 using System;

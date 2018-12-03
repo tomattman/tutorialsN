@@ -4,7 +4,7 @@ description: test3
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
 author_name: Abdel DADOUCHE
-time:568
+time:52
 ---
 
 ## Prerequisites  
@@ -14,6 +14,7 @@ time:568
 Every month, a mebber of SCN is rsi
 
 [End-to-End Weather App Scenario Part 10](newrul)
+"newrul"
 
 ```c#
 using System;

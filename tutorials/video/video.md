@@ -35,3 +35,6 @@ class HelloWorld
 Start-Sleep 10
 Restart-Computer -Force -ComputerName SERVER1
 ```
+Jump to [big image](#big_image)
+
+### <a id="big_image"></a>Big Image

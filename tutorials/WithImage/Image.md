@@ -121,7 +121,7 @@ primary_tag: tutorial:product/sapHana
    
    [ACCORDION-BEGIN [STEP 7](Image with indicating the way. Example: tutorials/images/image.jpg (jpg format))]
      
-   ![Relative](tutorials/with_Image/elephant.jpg)
+   ![Relative](tutorials/WithImage/elephant.jpg)
    [ACCORDION-END]
    
    

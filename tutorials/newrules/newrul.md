@@ -18,7 +18,7 @@ time: 30 min
 
 ## Details
 ### You will learn  
-Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cockpit, you will connect that destination to your local application.    
+Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cockpit, you will connect that destination to your local application.  a   aaaaaa
 
 ## Prerequisites  
 - [Access your first data in a SAP HANA XSC Application](http://go.sap.com/developer/tutorials/hana-data-access-authorizations.html)

@@ -7,7 +7,7 @@ primary_tag: tutorial>beginner
 
 ## Prerequisites  
  - **Proficiency:** Beginner
- - **Tutorials:** [Internet of Things (IoT) Viewing your Tessel data from IoT Services] **`hxeadm`**(http://go.sap.com/developer/tutorials/iot-part9-hcp-services-viewdata.html)
+ - **Tutorials:** [Internet of Things (IoT) Viewing your Tessel data from IoT Services] **`hxeadm`** **```hxeadm@hxehost:~>```**(http://go.sap.com/developer/tutorials/iot-part9-hcp-services-viewdata.html)
 
 ## Next Steps
  - Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
@@ -124,7 +124,7 @@ NTESTUHIUOP{
 	```
 	https://<system_id>hanaxs.hanatrial.ondemand.com/<user_id>trial/codejam/iotmmsxs/iotservice.xsodata/T_IOT_<table_postfix>?$format=json
 	```
-**`hxeadm`**
+**`hxeadm`** **```hxeadm@hxehost:~>```**
 13. You will use this when modifying the `index.html` file.
 
 	![default page](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/iot-part10-hcp-services-hanaxs/7.png)
@@ -171,4 +171,4 @@ NTESTUHIUOP{
 
 
 ## Next Steps
- -  **`hxeadm`** Select a tutorial from the !!!!!!!!!!!!! [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
+ -  **`hxeadm`** Select a tutorial from the  **```hxeadm@hxehost:~>```**!!!!!!!!!!!!! [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)

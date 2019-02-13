@@ -1,4 +1,17 @@
 
+[VALIDATE_6]
+
+###Rule
+regex-begins-with
+
+###Match
+https://account.hanatrial.ondemand.com/cockpit/#/acc/[id]trial
+
+###Question
+Is regex-begins-with working?
+
+[VALIDATE_6]
+
 [VALIDATE_8]
 ###Rule
 single-choice

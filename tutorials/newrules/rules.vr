@@ -5,10 +5,7 @@
 regex-with-id-exact-match
 
 ###Match
-https://account.hanatrial.ondemand.com/cockpit/#/acc/[id]trial
-
-###Question
-Is regex-begins-with working?
+https://account.hanatrial.ondemand.com/cockpit/#/acc/[id]/accountdashboard
 
 [VALIDATE_6]
 

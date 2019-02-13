@@ -5,21 +5,13 @@ tags: [ tutorial>beginner ]
 primary_tag: tutorial>beginner
 ---
 
-## Prerequisites  
- - **Proficiency:** Beginner
- - **Tutorials:** [Internet of Things (IoT) Viewing your Tessel data from IoT Services] **`hxeadm`** **```hxeadm@hxehost:~>```**(http://go.sap.com/developer/tutorials/iot-part9-hcp-services-viewdata.html)
-
-## Next Steps
- - Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
-
-
 ## Details
 ### You will learn  
 NTESTUHIUOP{
 
 
 ### Time to Complete
-**44 Min**.
+**123 Min**.
 
 
 [ACCORDION-BEGIN [Step 1: ](Troubleshoot problems and show logs)]

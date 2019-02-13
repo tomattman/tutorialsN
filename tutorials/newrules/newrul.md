@@ -28,6 +28,10 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
 [VALIDATE_6] 
 [ACCORDION-END]
 
+[ACCORDION-BEGIN [STEP7](regex-with-id-exact-match)] 
+[VALIDATE_7] 
+[ACCORDION-END]
+
 [ACCORDION-BEGIN [STEP 1](single-choice rule)] 
 [VALIDATE_8] 
 [ACCORDION-END]

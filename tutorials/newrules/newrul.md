@@ -1,6 +1,6 @@
 ---
 title: TutorialTopaz3
-description: ADMINTOOL 222 333 444 555
+description: ADMINTOOL 222 333 444 555 666
 tags: [tutorial>advanced, tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
 time: 30 min
@@ -30,6 +30,10 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
 
 [ACCORDION-BEGIN [STEP7](regex-with-id-exact-match)] 
 [VALIDATE_7] 
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP10](regex-begins-with)] 
+[VALIDATE_10] 
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 1](single-choice rule)] 

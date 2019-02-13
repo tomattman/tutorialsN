@@ -2,7 +2,7 @@
 [VALIDATE_6]
 
 ###Rule
-regex-with-id-exact-match
+regex-begins-with
 
 ###Match
 https://account.hanatrial.ondemand.com/cockpit/#/acc/[id]trial

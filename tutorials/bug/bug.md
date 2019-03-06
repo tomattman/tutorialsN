@@ -9,7 +9,9 @@ time: 355
 [ACCORDION-BEGIN [Step 5: ](Deploying the Project)]
 
 ```markdown
+
 ---
+
 applications:
 
 - name: firstapp

@@ -10,7 +10,6 @@ time: 355
 
 ```markdown
 ---
-
 applications:
 
 - name: firstapp

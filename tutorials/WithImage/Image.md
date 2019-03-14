@@ -1,18 +1,10 @@
 ---
-title: TutorialTopaz1
+title: TutorialTopaz1 new reload
 description: Develop and 11deploy your first Java application using the SAP HANA Cloud Platform Tools for Java
 tags: [  tutorial>beginner, topic>cloud, topic>java, tutorial>license]
 primary_tag: tutorial:product/sapHana
+time: 10
 ---
-### Time to Complete
-10 min
-
-## Prerequisites  
- - **Proficiency:** Advanced
- - **Tutorials:** [Configuring Eclipse with SAP HANA Cloud Platform Tools for Java](https://github.com/mamosova/tutorials/edit/master/tutorials/test1111/accardion.md)
-
-## Next Steps
- - Select a tutorial from the [Tutorial Navigator new](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
 
 ## Details
 ### You will learn  

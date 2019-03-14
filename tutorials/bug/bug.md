@@ -9,9 +9,7 @@ time: 20
 [ACCORDION-BEGIN [Step 5: ](Deploying the Project)]
 
 ```markdown
----
 applications:
-
 - name: firstapp
   memory: 768M
   host: firstapp-D123456

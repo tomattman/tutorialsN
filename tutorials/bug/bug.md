@@ -1,5 +1,5 @@
 ---
-title: BUG 1803 update yaml 1123
+title: BUG 1803 update yaml 1234
 description: The following steps will explain how to create a basic Java project to call OData services using the SAP S/4HANA Cloud SDK on Cloud Foundry.
 tags: [ tutorial>intermediate, products>sap-s-4hana-cloud-sdk]
 primary_tag: products>sap-s-4hana-cloud-sdk
@@ -8,7 +8,7 @@ time: 20
 
 [ACCORDION-BEGIN [Step 5: ](Deploying the Project)]
 
-```yaml
+    ```yaml
 invoice: 34843
 date   : 2001-01-23
 bill-to: &id001
@@ -37,7 +37,8 @@ comments: >
     Late afternoon is best.
     Backup contact is Nancy
     Billsmer @ 338-4338.
- ```
+    
+    ```
 [DONE]
 
 [ACCORDION-END]

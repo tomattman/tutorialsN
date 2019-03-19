@@ -8,12 +8,7 @@ time: 20
 
 [ACCORDION-BEGIN [Step 5: ](Deploying the Project)]
 
-```YAML
-    "yaml.customTags": [
-    "!Scalar-example scalar",
-    "!Seq-example sequence",
-    "!Mapping-example mapping"
-]
+```yaml
 item:
   - method: UPDATE
     where: &FREE_ITEMS
@@ -26,8 +21,7 @@ npc:
   - method: MERGE
     merge-from: {name: General Goods Vendor}
     items: *FREE_ITEMS
-    ```
-
+ ```
 [DONE]
 
 [ACCORDION-END]

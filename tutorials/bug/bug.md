@@ -8,7 +8,7 @@ time: 20
 
 [ACCORDION-BEGIN [Step 5: ](Deploying the Project)]
 
-   ```yaml
+```yaml
 invoice: 34843
 date   : 2001-01-23
 bill-to: &id001
@@ -38,7 +38,7 @@ comments: >
     Backup contact is Nancy
     Billsmer @ 338-4338.
     
-  ```
+```
 [DONE]
 
 [ACCORDION-END]

@@ -9,6 +9,7 @@ time: 20
 [ACCORDION-BEGIN [Step 5: ](Deploying the Project)]
 
 ```YAML
+
     singleliners:
     simple: 
         single

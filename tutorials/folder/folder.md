@@ -3,7 +3,7 @@ title: TutorialTopaz2 1803 update
 description: 2 new types of rules 2007_1
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
-author_name: AE2
+author_name: AE23
 author_profile: https://github.com/adadouche
 ---
 
@@ -22,7 +22,7 @@ author_profile: https://github.com/adadouche
 TEST2
 
 ### Time to Complete
-**77 Min**
+**66 Min**
 
 ## Prerequisites  
 - [Access your first data in a SAP HANA XSC Application](http://go.sap.com/developer/tutorials/hana-data-access-authorizations.html)

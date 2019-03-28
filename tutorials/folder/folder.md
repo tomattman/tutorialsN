@@ -3,7 +3,7 @@ title: TutorialTopaz2 1803 update
 description: 2 new types of rules 2007_1
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
-author_name: AE23
+author_name: AE233
 author_profile: https://github.com/adadouche
 ---
 

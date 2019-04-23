@@ -3,7 +3,7 @@ title: Topaz license + mini nav testing 1803
 description: Develop and 11deploy your first Java application using the SAP HANA Cloud Platform Tools for Java
 tags: [  tutorial>beginner, topic>cloud, topic>java, tutorial>license]
 primary_tag: tutorial:product/sapHana
-time: 222
+time: 60
 ---
 
 ## Details
@@ -12,17 +12,6 @@ TEEEEST TOOOOOOO rth jfg g NEW rgrt UPDATE ANYTHING
 
 ---
 
-[ACCORDION-BEGIN [Step 1: ](Add custom code)]
-
-1. Open the new `OrdersService.java` file and replace the template with the following code:
-
-    1. Save your changes.
-
-    >In this sample code, we set a value of 1000 for the property amount of each returned entity in reading operations.
-
-[DONE]
-
-[ACCORDION-END]
 
 **Image with *jpg format**
 

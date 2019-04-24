@@ -1,4 +1,16 @@
 
+[VALIDATE_5]
+
+###Rule
+exact-match-precise
+
+###Match
+my answer to this question is yes
+
+[VALIDATE_5]
+
+
+
 [VALIDATE_6]
 
 ###Rule

@@ -21,7 +21,7 @@ regex
 [VALIDATE_5]
 
 ###Rule
-exact-match-precise
+exact-match
 
 ###Match
 my answer to this question is yes

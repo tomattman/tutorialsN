@@ -13,6 +13,7 @@ TEEEEST TOOOOOOO rth jfg g NEW rgrt UPDATE ANYTHING
 ---
 
 - ['cat.png']!(tutorials/WithImage/cat.png)
+- [tutorials/WithImage/cat.png]!('cat.png')
 
 **Image with *jpg format**
 

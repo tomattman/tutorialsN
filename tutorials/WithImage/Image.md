@@ -11,8 +11,6 @@ time: 60
 TEEEEST TOOOOOOO rth jfg g NEW rgrt UPDATE ANYTHING
 
 ---
-- ['cat.png']!(tutorials/WithImage/cat.png)
-
 **Image with *jpg format**
 
    ![Repositories](Funny-Baby-11.jpg)

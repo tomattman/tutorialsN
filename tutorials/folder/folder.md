@@ -9,7 +9,7 @@ author_profile: https://github.com/adadouche
 
 
 ## Prerequisites  
- - **Web IDE** If yоеou don't have the Web IDE open, follow these steps: [Enable and open the HANA Cloud Platform Web IDE](https://go.sap.com/developer/tutorials/sapui5-webide-open-webide.html)
+ - **Web IDE** If yоеou doh n't have the Web IDE open, follow these steps: [Enable and open the HANA Cloud Platform Web IDE](https://go.sap.com/developer/tutorials/sapui5-webide-open-webide.html)
  - **Tutorials:** This tutorial is part of a series.  The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials/hcp-create-destination.html)
 - **Proficiency:** Advanced
 

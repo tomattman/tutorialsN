@@ -8,7 +8,7 @@ time: 60
 
 ## Details
 ### You will learn  
-TEEEEST TOOOOOOO rth jfg g NEW rgrt UPDATE ANYTHING
+TEEEEST TOOOOOOO rth jfg g NEW rgrt UPDATE ANYTHING ergtht erth 
 
 ---
 **Image with *jpg format**

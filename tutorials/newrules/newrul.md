@@ -3,7 +3,7 @@ title: TutorialTopaz3
 description: ADMINTOOL final
 tags: [tutorial>advanced, tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
-time: 35 min
+time: 33 min
 ---
 
 

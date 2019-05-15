@@ -5,7 +5,7 @@ tags: [products>sap-hana, topic>api, tutorial>beginner]
 primary_tag: tutorial:product/mobile
 ---
 ### Time to Complete
-25 min
+20 min
 
 
 [ACCORDION-BEGIN [Step 1: ](Add custom code)]

@@ -6,7 +6,6 @@ primary_tag: tutorial:product/mobile
 time: 33 min
 ---
 
-
 ## Prerequisites  
  - **Proficiency:** Beginner 
  - **Web IDE** If you don't have the Web IDE open, follow these steps: [Enable and open the HANA Cloud Platform Web IDE](https://go.sap.com/developer/tutorials/sapui5-webide-open-webide.html)
@@ -46,7 +45,6 @@ time: 33 min
 [ACCORDION-BEGIN [STEP 8](single-choice rule)] 
 [VALIDATE_8] 
 [ACCORDION-END]
-
 
 [ACCORDION-BEGIN [STEP 9](multiple-choice rule)] 
 [VALIDATE_9] 

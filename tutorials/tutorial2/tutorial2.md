@@ -9,7 +9,7 @@ tags: [  tutorial>how-to, tutorial>beginner, tutorial>intermediate, products>sap
 
 
 ## How-To Details
-The following will document links, tips and tricks and more related to the SAP CodeJam Getting Started with SAP HANA, express edition event.
+The following wi rthr thll document links, tips and tricks and more related to the SAP CodeJam Getting Started with SAP HANA, express edition event.
 
 
 ### Time to Complete

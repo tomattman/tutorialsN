@@ -50,7 +50,6 @@ time: 33 min
 [VALIDATE_9] 
 [ACCORDION-END]
 
-
-
+[ACCORDION-BEGIN [STEP 10](multiple-choice rule)] 
 [DONE]
 [ACCORDION-END]

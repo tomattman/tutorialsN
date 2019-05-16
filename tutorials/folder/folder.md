@@ -8,8 +8,8 @@ author_profile: https://github.com/adadouche
 ---
 
 
-## Prerequisitesss  
- - **Web IDE** If yоеou doh n't have the Web IDE open, follow these steps: [Enable and open the HANA Cloud Platform Web IDE](https://go.sap.com/developer/tutorials/sapui5-webide-open-webide.html)
+## Prerequisites
+ - **Web IDE** If yоеou doh n't have the Web IDE open, follow these steps: [Enable and open the HANA Cloud Platform Web IDE](https://go.sap.com/developer/tutorials/sapui5-webide-open-webide.htmlerjhgir)
  - **Tutorials:** This tutorial is part of a series.  The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials/hcp-create-destination.html)
 - **Proficiency:** Advanced
 
@@ -22,7 +22,7 @@ author_profile: https://github.com/adadouche
 TEST2
 
 ### Time to Complete
-**67 Min**
+**88 Min**
 
 ## Prerequisites  
 - [Access your first data in a SAP HANA XSC Application](http://go.sap.com/developer/tutorials/hana-data-access-authorizations.html)

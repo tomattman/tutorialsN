@@ -156,7 +156,7 @@ TEEEEST TOOOOOOO rth jfg g NEW rgrt UPDATE ANYTHING ergtht erth
    [ACCORDION-END]
    
    
-   [ACCORDION-BEGIN [STEP 15(Image with  *JPG format (jpg format))  
+   [ACCORDION-BEGIN [STEP 15(Image with *JPG format (jpg format)]
 
    ![Repositories](cat0.JPG)
    [ACCORDION-END]

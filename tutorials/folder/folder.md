@@ -3,12 +3,12 @@ title: TutorialTopaz2 1803 update
 description: 2 new types of rules 2007_1
 tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 primary_tag: tutorial:product/sapHana
-author_name: AE
+author_name: AEM
 author_profile: https://github.com/adadouche
 ---
 
 
-## Prerequisites  
+## Prerequisitesss  
  - **Web IDE** If yоеou doh n't have the Web IDE open, follow these steps: [Enable and open the HANA Cloud Platform Web IDE](https://go.sap.com/developer/tutorials/sapui5-webide-open-webide.html)
  - **Tutorials:** This tutorial is part of a series.  The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials/hcp-create-destination.html)
 - **Proficiency:** Advanced

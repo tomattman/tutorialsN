@@ -4,7 +4,7 @@ title: Topaz license + mini nav testing 1803
 description: Develop and 11deploy your first Java application using the SAP HANA Cloud Platform Tools for Java
 tags: [  tutorial>beginner, topic>cloud, topic>java, tutorial>license]
 primary_tag: tutorial:product/sapHana
-time: 600
+time: 77
 ---
 
 ## Details
@@ -159,11 +159,11 @@ TEEEEST TOOOOOOO rth jfg g NEW rgrt UPDATE ANYTHING ergtht erth
    [ACCORDION-BEGIN [STEP 15](Image with  *JPG format (jpg format))]   
 
    ![Repositories](cat0.JPG)
-   [ACCORDION-END]
+   [ACCORDION-END
    
    
    [ACCORDION-BEGIN [STEP 16](Image with  *PNG format (png format))]   
 
    ![Repositories](watch.PNG)
-   [ACCORDION-END
+   [ACCORDION-END]
 

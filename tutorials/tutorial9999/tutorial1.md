@@ -1,5 +1,5 @@
 ---
-title: TutorialTopaz4_updated 1803 update
+title: megaupdated tutorial
 description: Develop and 11deploy your first Java application using the SAP HANA Cloud Platform Tools for Java
 tags: [  tutorial>beginner, topic>cloud, topic>java]
 primary_tag: tutorial:product/sapHana
@@ -31,7 +31,7 @@ TEST2
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [test](Accordion component which contains link(s) in Body)]
-Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
+Select a tutorial tutorial tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2017/12/746085f5-e27c-0010-82c7-eda71af511fa.mp4)]
 
